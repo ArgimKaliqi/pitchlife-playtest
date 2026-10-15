@@ -1,0 +1,9 @@
+{
+  "name": "Pitchlife.P01.PlayTests",
+  "references": ["Pitchlife.P01.Runtime", "Unity.InputSystem", "Unity.RenderPipelines.Universal.Runtime", "Unity.RenderPipelines.Core.Runtime"],
+  "optionalUnityReferences": ["TestAssemblies"],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "autoReferenced": false,
+  "defineConstraints": ["UNITY_INCLUDE_TESTS"]
+}
